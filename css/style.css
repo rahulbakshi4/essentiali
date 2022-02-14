@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp");
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url(../Authentication/css/auth.css);
 
 :root {
   --clr-brown: 155, 122, 80;
@@ -43,6 +44,9 @@ select {
 .ff-title {
   font-family: "Pacifico", cursive;
 }
+.ff-title a{
+  text-decoration: none;
+}
 
 .bg-brown {
   background-color: rgb(var(--clr-brown)) !important;
@@ -69,6 +73,9 @@ select {
 
 .nav-icons {
   display: flex;
+}
+.nav-icons a{
+  text-decoration: none;
 }
 .text-brown {
   color: rgb(var(--clr-brown));
