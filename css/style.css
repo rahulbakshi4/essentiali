@@ -4,6 +4,8 @@
 @import url(../Authentication/css/auth.css);
 @import url(../Cart/cart.css);
 @import url(../Product-Listing/productList.css);
+@import url(../Wishlist/wishlist.css);
+
 :root {
   --clr-brown: 155, 122, 80;
   --clr-cream: #ffe4c6;
