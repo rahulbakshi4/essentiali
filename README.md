@@ -20,7 +20,7 @@ Essentiali is an online store for all your grocery needs. Visit [Essentiali](htt
 - [Cart](https://essentiali.vercel.app/Cart/cart.html)
 - [Login](https://essentiali.vercel.app/Authentication/Login/login.html)
 - [SignUp](https://essentiali.vercel.app/Authentication/SignUp/signup.html)
-
+- [Forgot Password](https://essentiali.vercel.app/Authentication/Forgot-Password/forgotpassword.html)
 
 ## Preview 
 
